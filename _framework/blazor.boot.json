@@ -30,7 +30,7 @@
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-HPiYjzuItf0u8j\/1JyLX28frakdbKfRPChJZA1FEJjE=",
       "System.IO.Pipelines.dll": "sha256-qZYTUS+ga7CydtH54fYPbehFCvx3B49I74G8dxreTog=",
       "System.Net.Http.Json.dll": "sha256-FD\/rLoGZFwRs4G5468U9zOOsL+\/78N\/awMIKLRmAKvM=",
-      "AudioCuesheetEditor.dll": "sha256-QvhJLpGpqzOPaWl+L9Oyu6aT8MO29MMRU8bss3flumk=",
+      "AudioCuesheetEditor.dll": "sha256-AAeYxauU350pdIJiTWWT0YVm4tIp4TAM1cECaRsCtF8=",
       "System.Collections.Concurrent.dll": "sha256-pQSkApcEINghivQg10Qx7dbp3BVuV0KiNhK5rSnfoCk=",
       "System.Collections.Immutable.dll": "sha256-IRt+2CEqWF\/eR1lUEQ3Sd5DGQoZcUDAjO7wggeBsh9Q=",
       "System.Collections.NonGeneric.dll": "sha256-MGpve005\/jX1AQKRVhxSB8eYyRhhRLozlfkcalpGyiw=",
@@ -56,7 +56,7 @@
       "System.Text.Encodings.Web.dll": "sha256-5S+W3kSk+0u\/+RQQqCU8AokWCOmN4XjpDM7+dS5thPM=",
       "System.Text.Json.dll": "sha256-6v7r\/I5kugFHdIW7FWqhTKYejbwL3lnI39PJcBssf80=",
       "System.Text.RegularExpressions.dll": "sha256-\/fFvvwCxaHOZu1jCbGielEhsfxOzSKmD4X7QqLNr19E=",
-      "System.Private.CoreLib.dll": "sha256-AeG0Xe\/OJYCsfFYUNtA0pWkIZmhjKbaUWtOzyYvQ3Ec="
+      "System.Private.CoreLib.dll": "sha256-w8SCumhGhseZUi8acHC6Kt8Zn7iohzKu5e0AhzS5Apc="
     },
     "lazyAssembly": null,
     "pdb": null,
@@ -71,7 +71,7 @@
     },
     "satelliteResources": {
       "de": {
-        "de\/AudioCuesheetEditor.resources.dll": "sha256-CO1bnlhcUJgh0OKlh0qZMP0MFfoWytiqsh6Y2JheMDc="
+        "de\/AudioCuesheetEditor.resources.dll": "sha256-S4C9QLz4WhLjbGbWH7g+GRHPWiTfcdfK7v7xMa8+yA8="
       }
     }
   }
