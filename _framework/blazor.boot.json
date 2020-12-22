@@ -7,7 +7,7 @@
   "linkerEnabled": false,
   "resources": {
     "assembly": {
-      "AudioCuesheetEditor.dll": "sha256-3ghqjvYZLJawTnU5nNTJSd3t\/\/C6GBtmG8d7Xl1LCao=",
+      "AudioCuesheetEditor.dll": "sha256-1npLvdIOwijqG25X5NWDBSHAfhyQQL6obTChuYJvtjk=",
       "Microsoft.CSharp.dll": "sha256-JWW\/4VOX8B0ELTP\/v4O7wlgWY8ZyVIv0BTIRIv2TJBw=",
       "Microsoft.VisualBasic.Core.dll": "sha256-\/9kBfwlTqN2R\/tiMVV76A72VsrUfSVAYs2v\/5mi38Mk=",
       "Microsoft.VisualBasic.dll": "sha256-WrQGoCtjVGnegfi0WxOTvOc0kZXDcuJ\/tg3XRe6YPlw=",
@@ -178,6 +178,7 @@
       "Blazorise.Bootstrap.dll": "sha256-7ZBRUEeHiCC7GM\/Ej6wacAKP\/5uJGw1HlE05TgdqztA=",
       "Blazorise.Components.dll": "sha256-WfFRcZ1sDEYKBzcvSHXobc8AslN8zsHmaOfupbNVWKQ=",
       "Blazorise.Icons.FontAwesome.dll": "sha256-xMZPwoKBqKfdY1RqsAeVsYQwNenX2H2Lva29DzaR+Rs=",
+      "Howler.Blazor.dll": "sha256-GavE4ega8q51nYYDqbKk4JnE7VfP8rHum5ez04QINdk=",
       "Microsoft.AspNetCore.Authorization.dll": "sha256-l3ZLL\/J5Qez21fDEDw2b32hOtlT11ly1GmmKGPMfMWQ=",
       "Microsoft.AspNetCore.Components.dll": "sha256-EPSZDBpWHRQ8gG6\/z95pneA5\/LyXLj2W4QNUXpEqKk4=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-D1w9d3k8\/YsRHjUWE8r0mcincGLiFMnCKofplsO+ND8=",
@@ -217,7 +218,7 @@
     },
     "satelliteResources": {
       "de": {
-        "de\/AudioCuesheetEditor.resources.dll": "sha256-Sk4tgWbXgXXzxRr8GceOvgsEQVg20Phl7QBUSftvuPY="
+        "de\/AudioCuesheetEditor.resources.dll": "sha256-PrngoPVR0Adur4dkG+\/9ZaNOam1lgVvEQiVlWu1F19A="
       }
     }
   }
