@@ -7,7 +7,7 @@
   "linkerEnabled": false,
   "resources": {
     "assembly": {
-      "AudioCuesheetEditor.dll": "sha256-oY1RJ+iw1B5F\/5uKyzhoRMxOluhkBVz0SnQZFfv8bYg=",
+      "AudioCuesheetEditor.dll": "sha256-7afD8XZIZjNqWSyWQKGE0yjt\/DHosU6J2VxrzHGhl3c=",
       "Microsoft.CSharp.dll": "sha256-JWW\/4VOX8B0ELTP\/v4O7wlgWY8ZyVIv0BTIRIv2TJBw=",
       "Microsoft.VisualBasic.Core.dll": "sha256-\/9kBfwlTqN2R\/tiMVV76A72VsrUfSVAYs2v\/5mi38Mk=",
       "Microsoft.VisualBasic.dll": "sha256-WrQGoCtjVGnegfi0WxOTvOc0kZXDcuJ\/tg3XRe6YPlw=",
@@ -217,7 +217,7 @@
     },
     "satelliteResources": {
       "de": {
-        "de\/AudioCuesheetEditor.resources.dll": "sha256-ZjAXAdNBQbYClKI5RnffeOSNT\/h\/V447m1dWY97S5Hs="
+        "de\/AudioCuesheetEditor.resources.dll": "sha256-xCIgxxy6\/TS\/z9mE1+kAn\/7Hhf3Jp03L\/5BXUnSmaoY="
       }
     }
   }
