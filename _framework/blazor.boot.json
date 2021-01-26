@@ -1,13 +1,15 @@
 {
   "cacheBootResources": true,
-  "config": [ ],
+  "config": [
+    "appsettings.json"
+  ],
   "debugBuild": false,
   "entryAssembly": "AudioCuesheetEditor",
   "icuDataMode": 1,
   "linkerEnabled": false,
   "resources": {
     "assembly": {
-      "AudioCuesheetEditor.dll": "sha256-7afD8XZIZjNqWSyWQKGE0yjt\/DHosU6J2VxrzHGhl3c=",
+      "AudioCuesheetEditor.dll": "sha256-XZwKGUH2UY\/AUXaG2bENromh5DmzlJf4Bo3Knb4RdVY=",
       "Microsoft.CSharp.dll": "sha256-JWW\/4VOX8B0ELTP\/v4O7wlgWY8ZyVIv0BTIRIv2TJBw=",
       "Microsoft.VisualBasic.Core.dll": "sha256-\/9kBfwlTqN2R\/tiMVV76A72VsrUfSVAYs2v\/5mi38Mk=",
       "Microsoft.VisualBasic.dll": "sha256-WrQGoCtjVGnegfi0WxOTvOc0kZXDcuJ\/tg3XRe6YPlw=",
@@ -198,11 +200,14 @@
       "Microsoft.Extensions.Localization.Abstractions.dll": "sha256-orDNP9piWqZ6e5gDEtJpqnC\/ef19pLQfNApdgq19gE4=",
       "Microsoft.Extensions.Logging.dll": "sha256-VlsKv5zXgdK0MrYHXr9XlUCXwuwNI7AUI\/C1PEFXcz4=",
       "Microsoft.Extensions.Logging.Abstractions.dll": "sha256-9UNtwDMFW86VtnTtJFk9xcc1hCnXFGXccFv3SkbgYy0=",
+      "Microsoft.Extensions.Logging.Configuration.dll": "sha256-WHIxYE23Vdp7ftjvN1du1QWhjzkESyk56mW2KhzSyA8=",
       "Microsoft.Extensions.Options.dll": "sha256-YfK6Zl0RmlJUqBJD7Khy7u4HEW2DRne0VSiqA6Yqs0U=",
+      "Microsoft.Extensions.Options.ConfigurationExtensions.dll": "sha256-HaoXDn4CO4yPYaXQe1vmychnJtwPyCMFwjP5m8cWg9g=",
       "Microsoft.Extensions.Primitives.dll": "sha256-f2PgoftqEkKRuuiAk6S1MHygOuqZBHzB0HOB3vR93TU=",
       "Microsoft.JSInterop.dll": "sha256-PsxLxuAZQnnskOEiWpsK6H6G5SM51oX6qlgmie2bedM=",
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-vKk9KOHougzhyFaVJlH5erwr52K\/i9Gw8flNlecX8Wc=",
-      "System.IO.Pipelines.dll": "sha256-3ET+mpR7F058YRj9YaLHOVXBqOW6iUxtIpeiKPYw4PA="
+      "System.IO.Pipelines.dll": "sha256-3ET+mpR7F058YRj9YaLHOVXBqOW6iUxtIpeiKPYw4PA=",
+      "Toolbelt.Blazor.HotKeys.dll": "sha256-Pswj5beDfNrXqWQQxj5ncMK7C5rukOCCkLOe8MOvbYw="
     },
     "lazyAssembly": null,
     "pdb": null,
@@ -217,7 +222,7 @@
     },
     "satelliteResources": {
       "de": {
-        "de\/AudioCuesheetEditor.resources.dll": "sha256-xCIgxxy6\/TS\/z9mE1+kAn\/7Hhf3Jp03L\/5BXUnSmaoY="
+        "de\/AudioCuesheetEditor.resources.dll": "sha256-1JLIzzBYwI1fBvAwc+SV0dIiVihT9697q5uZO7l2T5Y="
       }
     }
   }
